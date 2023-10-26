@@ -1,0 +1,16 @@
+ 1023  ing 172.20.25.9
+ 1024  ping 172.20.25.9
+ 1025  ssh root@172.20.25.97
+ 1026  ssh root@172.20.25.9
+ 1027  ssh shervan@172.20.25.9
+ 1028  ssh shervanf23@172.20.25.9
+ 1029  ssh ashishf23@172.20.25.9
+ 1030  man touch
+ 1031  !
+ 1032  ls
+ 1033  pwd
+ 1034  cd Documents/CS131
+ 1035  ls
+ 1036  cd CS131
+ 1037  ls
+ 1038  vi Global\ YouTube\ Statistics.csv
